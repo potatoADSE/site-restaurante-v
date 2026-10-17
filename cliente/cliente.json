@@ -1,0 +1,292 @@
+
+{
+  "nome": "Galinhos Frutos do Mar (Slow Food)",
+  "nome_comercial": "Galinhos Fruto do Mar Slow Food",
+  "telefone": "+55 84 99443-2228",
+  "whatsapp": "+55 84 99443-2228",
+  "instagram": "@frutosdomar_rn",
+  "endereco": {
+    "rua": "Travessa da Ilha, Rua Prefeito Walfran Ribeiro",
+    "referencia": "Por trás do Correio",
+    "cidade": "Galinhos",
+    "estado": "RN",
+    "cep": "59596-000",
+    "pais": "Brasil",
+    "completo": "Travessa da Ilha, Rua Prefeito Walfran Ribeiro, por trás do Correio, Galinhos - RN, 59596-000"
+  },
+  "tipo": "Restaurante artesanal",
+  "conceito": "Slow Food",
+  "chefs": [
+    "Lany Sousa",
+    "Lourimar Neto"
+  ],
+  "paginas": [
+    "home",
+    "cardapio",
+    "ambiente",
+    "reserva",
+    "sobre"
+  ],
+  "slogan": "Mais que gastronomia, uma experiência em Galinhos.",
+  "descricao": "Descubra os sabores autênticos do litoral potiguar no Galinhos Fruto do Mar Slow Food, na paradisíaca Praia de Galinhos, RN. Sob o comando dos chefs Lany Sousa e Lourimar Neto, cada experiência celebra a gastronomia artesanal com peixes frescos, camarões e moquecas cheias de sabor. Desfrute de drinques especiais em um ambiente rústico, acolhedor e cercado pela tranquilidade da natureza. Viva Galinhos à mesa — reserve sua experiência gastronômica!",
+  "reservas": {
+    "obrigatorias": true,
+    "recomendadas": true,
+    "canal_principal": "WhatsApp",
+    "instrucoes": "O restaurante atende mediante reserva. Orientar os visitantes a entrar em contato pelo WhatsApp para consultar disponibilidade e combinar os detalhes.",
+    "confirmacao_automatica": false
+  },
+  "cardapio": {
+    "status": "provisorio",
+    "usar_fotos": true,
+    "fonte_imagens": [
+      "Unsplash",
+      "Pexels",
+      "Pixabay"
+    ],
+    "orientacao": "Utilizar imagens gratuitas e devidamente licenciadas, com pratos genéricos representativos da gastronomia costeira de Galinhos e do litoral potiguar.",
+    "categorias_sugeridas": [
+      "Peixes",
+      "Camarões",
+      "Moquecas",
+      "Especialidades do mar",
+      "Pratos para compartilhar",
+      "Drinques e coquetéis",
+      "Sobremesas"
+    ],
+    "regras": [
+      "Identificar o cardápio como provisório durante o desenvolvimento.",
+      "Não inventar preços, ingredientes específicos ou disponibilidade de pratos.",
+      "Não apresentar sugestões como itens confirmados do restaurante.",
+      "Não afirmar que os pratos fotografados são preparados ou servidos pelo estabelecimento.",
+      "Priorizar imagens editoriais de boa qualidade, coerentes com a identidade visual.",
+      "Facilitar a substituição pelo cardápio oficial fornecido pelos responsáveis."
+    ]
+  },
+  "identidade_visual": {
+    "conceito": "Luxury Rustic / Nordic Tropical",
+    "descricao": "Combinar o aconchego rústico das praias nordestinas com o minimalismo refinado. A identidade deve transmitir contemplação, gastronomia artesanal, exclusividade acolhedora e conexão com a natureza.",
+    "paleta_cores": [
+      {
+        "nome": "Areia Neutra / Off-White",
+        "hex": "#F7F4EF",
+        "funcao": "Cor de fundo principal, remetendo às dunas de Galinhos, à areia e à desaceleração do Slow Food."
+      },
+      {
+        "nome": "Azul Mar Profundo",
+        "hex": "#1E3A8A",
+        "alternativa_hex": "#0F2942",
+        "funcao": "Cor primária para textos, botões, navegação e elementos relacionados ao mar."
+      },
+      {
+        "nome": "Laranja Terracota / Coral",
+        "hex": "#D96B43",
+        "funcao": "Cor de destaque para chamadas à ação, ícones e detalhes, remetendo às moquecas, ao barro e ao pôr do sol."
+      },
+      {
+        "nome": "Madeira Rústica",
+        "hex": "#5C4033",
+        "funcao": "Cor de apoio para bordas, detalhes e elementos que evocam madeira natural e artesanato."
+      }
+    ],
+    "estilo_layout": {
+      "nome": "Luxury Rustic / Nordic Tropical",
+      "sensacoes": [
+        "Contemplativo",
+        "Artesanal",
+        "Caloroso",
+        "Refinado",
+        "Natural"
+      ],
+      "caracteristicas": [
+        "Composição visual limpa e elegante",
+        "Espaçamento generoso entre elementos",
+        "Cantos suavemente arredondados",
+        "Fotografia editorial em alta resolução",
+        "Texturas sutis de linho e madeira",
+        "Hierarquia tipográfica clara",
+        "Design responsivo com prioridade para dispositivos móveis"
+      ],
+      "referencias_visuais": [
+        "Dunas de Galinhos",
+        "Mar e paisagens costeiras",
+        "Madeira natural",
+        "Culinária artesanal",
+        "Luz natural",
+        "Pôr do sol no litoral potiguar"
+      ]
+    },
+    "fotografia": {
+      "estilo": "Editorial gastronômico, natural e sofisticado",
+      "caracteristicas": [
+        "Fotografias de alta resolução",
+        "Luz natural e tons quentes",
+        "Composições cuidadosas de pratos",
+        "Texturas naturais",
+        "Paisagens costeiras e dunas",
+        "Ambientes rústicos e acolhedores"
+      ],
+      "fontes": [
+        "Unsplash",
+        "Pexels",
+        "Pixabay"
+      ],
+      "regras": [
+        "Utilizar imagens com licenças compatíveis com o projeto.",
+        "Não apresentar imagens genéricas como fotografias reais do restaurante.",
+        "Priorizar fotografias reais do estabelecimento se forem disponibilizadas futuramente.",
+        "Otimizar o tamanho das imagens para manter bom desempenho."
+      ]
+    },
+    "logo": {
+      "arquivo": null,
+      "status": "nao_informada",
+      "instrucoes": [
+        "Verificar se o cliente disponibilizou uma logo em arquivo antes de criar ou substituir qualquer identidade.",
+        "Não inventar um caminho de arquivo.",
+        "Se não houver logo disponível, utilizar temporariamente o nome do restaurante em tipografia elegante.",
+        "Não afirmar que uma tipografia provisória é o logotipo oficial."
+      ]
+    },
+    "diretrizes": [
+      "Manter a identidade visual consistente em todas as páginas.",
+      "Evitar excesso de cores e elementos decorativos.",
+      "Usar o off-white como base, o azul profundo como cor principal e o coral como destaque.",
+      "Utilizar a cor madeira para reforçar o caráter artesanal.",
+      "Preservar legibilidade, contraste e acessibilidade.",
+      "Evitar aparência genérica de template de restaurante.",
+      "Não utilizar estética excessivamente urbana, industrial ou de fast-food."
+    ]
+  },
+  "google_maps": {
+    "url": "https://maps.app.goo.gl/NZXRzTNTAeTcThVs8",
+    "uso": [
+      "Botão para abrir a localização no Google Maps.",
+      "Seção de localização na página Sobre.",
+      "Acesso à localização para clientes que desejam visitar o restaurante."
+    ],
+    "pagina_sobre": {
+      "secao": "Localização",
+      "mostrar_endereco": true,
+      "mostrar_mapa": true,
+      "botao_texto": "Como chegar",
+      "botao_url": "https://maps.app.goo.gl/NZXRzTNTAeTcThVs8",
+      "orientacao": "Incluir um mapa incorporado do Google Maps, se possível, e um botão funcional que abra o link fornecido. Caso a incorporação exija configuração adicional, manter o botão de localização disponível."
+    },
+    "integracao_avaliacoes": {
+      "status": "planejada",
+      "api": "Google Places API (New)",
+      "objetivos": [
+        "Consultar a nota atual do restaurante no Google.",
+        "Consultar a quantidade atual de avaliações.",
+        "Exibir a nota e a quantidade de avaliações no site.",
+        "Permitir que os visitantes acessem as avaliações no Google Maps.",
+        "Atualizar os dados periodicamente por meio de consultas à API."
+      ],
+      "campos_desejados": [
+        "rating",
+        "userRatingCount",
+        "reviews"
+      ],
+      "requisitos_futuros": [
+        "Identificar o Place ID correto do estabelecimento.",
+        "Ativar e configurar a API necessária no Google Cloud.",
+        "Configurar credenciais e faturamento conforme as regras vigentes.",
+        "Restringir as chaves de API conforme as recomendações do Google.",
+        "Não expor credenciais privadas no frontend.",
+        "Implementar consultas com controle de frequência e tratamento de erros.",
+        "Respeitar as regras de exibição, atribuição e armazenamento dos dados.",
+        "Manter o site funcional quando a API estiver indisponível."
+      ],
+      "restricoes": [
+        "Não inventar nem simular uma nota ou quantidade de avaliações reais.",
+        "Não apresentar dados estáticos como se fossem atualizados automaticamente.",
+        "Não afirmar que a integração já está ativa.",
+        "Não armazenar avaliações fora das condições permitidas pelo Google."
+      ]
+    }
+  },
+  "paginas_configuracao": {
+    "home": {
+      "titulo": "Galinhos Frutos do Mar",
+      "objetivo": "Apresentar a identidade gastronômica do restaurante e despertar o interesse em reservar uma experiência.",
+      "elementos": [
+        "Nome do restaurante",
+        "Slogan",
+        "Descrição de apresentação",
+        "Fotografia gastronômica de destaque",
+        "Introdução à proposta Slow Food",
+        "Destaques gastronômicos provisórios",
+        "Botão para consultar cardápio",
+        "Botão para reservar pelo WhatsApp",
+        "Acesso ao Instagram",
+        "Acesso à localização no Google Maps"
+      ]
+    },
+    "cardapio": {
+      "titulo": "Cardápio",
+      "objetivo": "Apresentar uma prévia ilustrativa das categorias gastronômicas.",
+      "status": "provisorio",
+      "observacao": "Pratos, ingredientes, preços e disponibilidade precisam ser validados pelos responsáveis antes da publicação como informações oficiais."
+    },
+    "ambiente": {
+      "titulo": "Um Ambiente para Desacelerar",
+      "objetivo": "Valorizar a atmosfera rústica, a varanda, o jardim e a tranquilidade associada à experiência gastronômica.",
+      "orientacao": "Priorizar fotografias reais do estabelecimento quando disponíveis. Imagens genéricas devem ser identificadas apenas como referências ilustrativas."
+    },
+    "reserva": {
+      "titulo": "Reserve sua Experiência",
+      "objetivo": "Facilitar o contato direto para consultar disponibilidade e solicitar uma reserva.",
+      "elementos": [
+        "Botão para WhatsApp",
+        "Telefone de contato",
+        "Orientações para solicitar reserva",
+        "Endereço do restaurante",
+        "Link para Instagram",
+        "Link para Google Maps"
+      ],
+      "observacao": "A reserva depende da confirmação do restaurante. O site não deve indicar confirmação automática."
+    },
+    "sobre": {
+      "titulo": "Nossa Essência",
+      "objetivo": "Apresentar o conceito gastronômico artesanal e os chefs Lany Sousa e Lourimar Neto.",
+      "secoes_sugeridas": [
+        "O conceito do restaurante",
+        "Gastronomia artesanal",
+        "Os chefs",
+        "A experiência em Galinhos",
+        "Localização e contato"
+      ],
+      "observacao": "Não inventar a história dos chefs, formação profissional, trajetória, prêmios ou práticas de fornecimento não confirmadas."
+    }
+  },
+  "links": {
+    "whatsapp": "https://wa.me/5584994432228",
+    "instagram": "https://www.instagram.com/frutosdomar_rn/",
+    "google_maps": "https://maps.app.goo.gl/NZXRzTNTAeTcThVs8"
+  },
+  "requisitos_tecnicos": [
+    "Criar uma experiência responsiva e mobile-first.",
+    "Manter navegação clara entre as cinco páginas.",
+    "Garantir o funcionamento do link do WhatsApp e do Instagram.",
+    "Adicionar o acesso ao Google Maps na página Sobre e nas áreas pertinentes.",
+    "Deixar explícito que o cardápio é provisório até sua validação.",
+    "Otimizar imagens para carregamento rápido.",
+    "Garantir contraste e acessibilidade.",
+    "Não inventar informações comerciais ou institucionais.",
+    "Não implementar confirmação automática de reservas sem integração real.",
+    "Não implementar a API de avaliações antes de sua configuração.",
+    "Facilitar futuras atualizações do conteúdo sem reconstruir o site."
+  ],
+  "observacoes": [
+    "O cardápio inicial é provisório.",
+    "O restaurante trabalha mediante reserva.",
+    "O único WhatsApp cadastrado é +55 84 99443-2228.",
+    "Os chefs informados são Lany Sousa e Lourimar Neto.",
+    "O endereço deve ser conferido com os responsáveis antes da publicação definitiva.",
+    "Nenhum arquivo de logo foi informado nesta configuração.",
+    "O link do Google Maps foi fornecido pelo cliente.",
+    "A integração automática de avaliações é uma funcionalidade futura.",
+    "A identidade visual descrita é uma diretriz de design, não um manual de marca oficial."
+  ]
+}
